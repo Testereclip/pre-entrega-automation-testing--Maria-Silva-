@@ -5,12 +5,18 @@ Este proyecto contiene un conjunto de pruebas automatizadas para el sitio web ht
 PRE-ENTREGA-TESTING_AUTOMATION/
 
 
-├── tests/
-│   └── test_saucedemo.py     # Archivo con los casos de prueba
-├── utils/
-│   └── helpers.py            # Funciones reutilizables (driver y login)
-├── README.md
-├── requirements.txt
+tests/
+
+└── test_saucedemo.py 
+# Archivo con los casos de prueba
+utils/
+
+└── helpers.py
+# Funciones reutilizables (driver y login)
+
+README.md
+
+requirements.txt
 
 Instalación y configuración
 pip install -r requirements.txt
