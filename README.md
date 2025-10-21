@@ -3,6 +3,8 @@ Automatización de pruebas con Selenium y Pytest – SauceDemo
 Este proyecto contiene un conjunto de pruebas automatizadas para el sitio web https://www.saucedemo.com
 , utilizando Python, Selenium WebDriver y Pytest.
 PRE-ENTREGA-TESTING_AUTOMATION/
+
+
 ├── tests/
 │   └── test_saucedemo.py     # Archivo con los casos de prueba
 ├── utils/
